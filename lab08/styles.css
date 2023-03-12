@@ -1,0 +1,28 @@
+body {background-color:#dbf4ff;}
+
+p {color: #0A2647;}
+
+a {color:#144272;}
+
+h1 {color:#1c99ce;}
+
+nav {background-color:#b8d3de;}
+
+nav a {color:#0e4b64}
+
+nav a:hover {background-color:#b9dafe}
+
+nav {padding: 10px;}
+
+nav {margin-bottom: 30px;}
+
+.quote{float: right}
+
+.box1 {display:flex;  background-color: #b9dafe; border-radius: .5em;}
+.box2 {display:flex;  background-color: #5da0bd; border-radius: .5em;}
+.box1, .box2 {margin:20px;}
+.box1, .box2 {padding: 10px;}
+.box1right {margin:10px; padding:70px;}
+.box1left {margin:10px; padding:70px;}
+.box2right {margin:10px; padding:40px;}
+.box2left {margin:10px; padding:40px;}
